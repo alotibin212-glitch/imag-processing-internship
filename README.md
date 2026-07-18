@@ -1,13 +1,18 @@
-# image-processing-internship
+### image-processing-internship
 
 A specialized Computer Vision script crafted with Python and OpenCV to segment and isolate aquatic and atmospheric features. By applying precise HSV color-space thresholding, the program filters out non-blue elements to cleanly extract sea and sky regions from complex landscape imagery.
 
 ### 🌊 Color Detection Visual Analysis
 Below is the verified graphical execution mapping showcasing the original image backdrop alongside the successfully processed and isolated blue color channels:
 1. Original Reference Artifact
+
+   
    <img width="720" height="1280" alt="task3" src="https://github.com/user-attachments/assets/993e42fd-ad86-4737-960e-ca21ebbade9b" />
 
-2. Extracted & Isolated Blue Spectrum
+
+
+3. Extracted & Isolated Blue Spectrum
+4. 
    <img width="720" height="1280" alt="output_sea" src="https://github.com/user-attachments/assets/45a89c90-5597-4a13-814e-c24fac9c6442" />
 
 
