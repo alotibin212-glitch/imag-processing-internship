@@ -4,11 +4,15 @@ A specialized Computer Vision script crafted with Python and OpenCV to segment a
 
 ### 🌊 Color Detection Visual Analysis
 Below is the verified graphical execution mapping showcasing the original image backdrop alongside the successfully processed and isolated blue color channels:
+1. Original Reference Artifact
+   <img width="720" height="1280" alt="task3" src="https://github.com/user-attachments/assets/993e42fd-ad86-4737-960e-ca21ebbade9b" />
 
-| Original Reference | Extracted & Isolated Blue Spectrum |
-| :--- | :--- |
-| <img width="720" height="1280" alt="task3" src="https://github.com/user-attachments/assets/737ee16e-ded3-4632-9971-a274df7ddc80" />
- |<img width="720" height="1280" alt="output_sea" src="https://github.com/user-attachments/assets/1a4a93fb-2df8-40d0-9fee-873227aa0ce5" /> |
+2. Extracted & Isolated Blue Spectrum
+   <img width="720" height="1280" alt="output_sea" src="https://github.com/user-attachments/assets/45a89c90-5597-4a13-814e-c24fac9c6442" />
+
+
+
+
 
 ## ⚙️ Technical Architecture & Pipeline Logic
 
