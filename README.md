@@ -2,13 +2,13 @@
 
 A specialized Computer Vision script crafted with Python and OpenCV to segment and isolate aquatic and atmospheric features. By applying precise HSV color-space thresholding, the program filters out non-blue elements to cleanly extract sea and sky regions from complex landscape imagery.
 
-## 🌊 Color Detection Visual Analysis
-
+### 🌊 Color Detection Visual Analysis
 Below is the verified graphical execution mapping showcasing the original image backdrop alongside the successfully processed and isolated blue color channels:
 
-| Original Reference Artifact | Extracted & Isolated Blue Spectrum |
+| Original Reference | Extracted & Isolated Blue Spectrum |
 | :--- | :--- |
-| Original Landscape (task3.JPG) | Detected Blue Color (output_sea.JPG) |
+| <img width="720" height="1280" alt="task3" src="https://github.com/user-attachments/assets/737ee16e-ded3-4632-9971-a274df7ddc80" />
+ |<img width="720" height="1280" alt="output_sea" src="https://github.com/user-attachments/assets/1a4a93fb-2df8-40d0-9fee-873227aa0ce5" /> |
 
 ## ⚙️ Technical Architecture & Pipeline Logic
 
