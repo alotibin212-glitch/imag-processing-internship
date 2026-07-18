@@ -4,7 +4,7 @@ A specialized Computer Vision script crafted with Python and OpenCV to segment a
 
 ---
 
-###🌊 Color Detection Visual Analysis
+##🌊 Color Detection Visual Analysis
 Below is the verified graphical execution mapping showcasing the original image backdrop alongside the successfully processed and isolated blue color channels:
 
 1. Original Reference Artifact
